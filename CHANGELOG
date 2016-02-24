@@ -1,3 +1,8 @@
+=== 2.0.0 2016-02-24
+
+* Beginning of major overhaul to work with Play 2.4
+* Introduced Dependency Injection
+
 === 1.1.2 2012-08-15
 
 * Add new com.stripe.Account API Resource.
